@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="revocgg--masterdnsvpn-androidgg"></div>
+
+### RevocGG--MasterDnsVPN-AndroidGG
+
+🔗 [source](https://github.com/RevocGG/MasterDnsVPN-AndroidGG) – [<code><small>v1.0.9</small></code>](https://github.com/RevocGG/MasterDnsVPN-AndroidGG/releases/tag/v1.0.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
+
+---
+
 <div id="iampedii--range-scout"></div>
 
 ### iampedii--range-scout
