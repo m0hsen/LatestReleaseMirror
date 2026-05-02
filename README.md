@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="revocgg--masterdnsvpn-androidgg"></div>
+<div id="iampedii--range-scout"></div>
 
-### RevocGG--MasterDnsVPN-AndroidGG
+### iampedii--range-scout
 
-🔗 [source](https://github.com/RevocGG/MasterDnsVPN-AndroidGG) – [<code><small>v1.0.9</small></code>](https://github.com/RevocGG/MasterDnsVPN-AndroidGG/releases/tag/v1.0.9)
+🔗 [source](https://github.com/iampedii/range-scout) – [<code><small>v0.7.0</small></code>](https://github.com/iampedii/range-scout/releases/tag/v0.7.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
+| `range-scout_windows_amd64.exe` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_windows_amd64.exe) |
 <!-- RELEASES_END -->
