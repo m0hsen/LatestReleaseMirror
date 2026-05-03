@@ -169,13 +169,13 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="iampedii--range-scout"></div>
+<div id="kamalalhagh--kevinnet-dns"></div>
 
-### iampedii--range-scout
+### kamalalhagh--kevinnet-dns
 
-🔗 [source](https://github.com/iampedii/range-scout) – [<code><small>v0.7.0</small></code>](https://github.com/iampedii/range-scout/releases/tag/v0.7.0)
+🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.0.8</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.0.8)
 
 | File | Size | Download |
 |------|------|----------|
-| `range-scout_windows_amd64.exe` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_windows_amd64.exe) |
+| `KevinNet_Windows_x64.exe` | 33.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
 <!-- RELEASES_END -->
