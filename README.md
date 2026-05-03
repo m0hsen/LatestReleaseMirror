@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="irnova--nova-proxy-app"></div>
+
+### IRNova--Nova-Proxy-App
+
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
+
+---
+
 <div id="revocgg--masterdnsvpn-androidgg"></div>
 
 ### RevocGG--MasterDnsVPN-AndroidGG
@@ -166,16 +178,4 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
-
----
-
-<div id="masterking32--masterdnsvpn"></div>
-
-### masterking32--MasterDnsVPN
-
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.04.12.234117-978faee</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.04.12.234117-978faee)
-
-| File | Size | Download |
-|------|------|----------|
-| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
