@@ -4,3 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 RevocGG/MasterDnsVPN-AndroidGG|universal.apk|
 kamalalhagh/kevinnet-dns|KevinNet_Windows_x64.exe|
+YasharMir/Dns-Tunnel-Scanner|.exe|
