@@ -169,13 +169,13 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="kamalalhagh--kevinnet-dns"></div>
+<div id="masterking32--masterdnsvpn"></div>
 
-### kamalalhagh--kevinnet-dns
+### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.0.8</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.0.8)
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.04.12.234117-978faee</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.04.12.234117-978faee)
 
 | File | Size | Download |
 |------|------|----------|
-| `KevinNet_Windows_x64.exe` | 33.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
+| `MasterDnsVPN_Client_Windows_ARM64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_ARM64.zip) |
 <!-- RELEASES_END -->
