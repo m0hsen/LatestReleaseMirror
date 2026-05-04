@@ -157,18 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="irnova--nova-proxy-app"></div>
-
-### IRNova--Nova-Proxy-App
-
-🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
-
----
-
 <div id="revocgg--masterdnsvpn-androidgg"></div>
 
 ### RevocGG--MasterDnsVPN-AndroidGG
@@ -178,4 +166,16 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
+
+---
+
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
 <!-- RELEASES_END -->
