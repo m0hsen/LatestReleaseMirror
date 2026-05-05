@@ -4,3 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 RevocGG/MasterDnsVPN-AndroidGG|universal.apk|
 anonvector/SlipNet|slipnet-windows-amd64.exe|
+ThisIsDara/mhr-cfw-go|.exe|
