@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN_Server_Windows_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
