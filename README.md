@@ -157,37 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="revocgg--masterdnsvpn-androidgg"></div>
+<div id="masterking32--masterdnsvpn"></div>
 
-### RevocGG--MasterDnsVPN-AndroidGG
+### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/RevocGG/MasterDnsVPN-AndroidGG) – [<code><small>v1.0.9</small></code>](https://github.com/RevocGG/MasterDnsVPN-AndroidGG/releases/tag/v1.0.9)
-
-| File | Size | Download |
-|------|------|----------|
-| `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
-
----
-
-<div id="thisisdara--mhr-cfw-go"></div>
-
-### ThisIsDara--mhr-cfw-go
-
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.1.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.1.0)
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
-
----
-
-<div id="anonvector--slipnet"></div>
-
-### anonvector--SlipNet
-
-🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
-
-| File | Size | Download |
-|------|------|----------|
-| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+| `MasterDnsVPN_Server_Windows_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
