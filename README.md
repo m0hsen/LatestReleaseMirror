@@ -157,13 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="nullroute1970--stormdns"></div>
+<div id="iampedii--whitedns"></div>
 
-### nullroute1970--StormDNS
+### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.08.160835-42554b3</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.08.160835-42554b3)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `StormDNS_Client_Windows_AMD64.zip` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
+| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk) |
+| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk.idsig) |
 <!-- RELEASES_END -->
