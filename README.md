@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="masterking32--masterdnsvpn"></div>
+<div id="nullroute1970--stormdns"></div>
 
-### masterking32--MasterDnsVPN
+### nullroute1970--StormDNS
 
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.08.160835-42554b3</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.08.160835-42554b3)
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `StormDNS_Client_Windows_AMD64.zip` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/m0hsen/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
